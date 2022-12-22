@@ -12,12 +12,12 @@ In this project, I conducted my own analysis on the above paper to optimize the 
 probiotic yogurt to create ideal cohesiveness.
 
 ## Methods
-Data Cleaning
-Data Exploration
-Data Visualization
-Response Surface Model
-ANOVA
-Interaction Terms
-Optimization
-Model Comparison
-Residual Diagnostics
+* Data Cleaning
+* Data Exploration
+* Data Visualization
+* Response Surface Model
+* ANOVA
+* Interaction Terms
+* Optimization
+* Model Comparison
+* Residual Diagnostics
